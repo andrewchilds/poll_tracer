@@ -1,6 +1,6 @@
 /**
  * Poll Tracer
- * http://github.com/intentmedia/poll_tracer
+ * http://github.com/andrewchilds/poll_tracer
  */
 (function() {
 
